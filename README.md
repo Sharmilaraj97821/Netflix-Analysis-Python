@@ -7,6 +7,8 @@ Some key techniques that may be used in EDA on the Netflix-Movies & TV Shows dat
 
 ### Data visualization 
 charts and other visual representations can be used to illustrate patterns and relationships in the data.
+
+
 The results of the EDA process can provide valuable insights into the Netflix-Movies & TV Shows dataset, such as identifying the most popular genres, the most highly-rated titles, and trends in viewer preferences over time. These insights can be used to inform business decisions related to content acquisition, production, and marketing.
 
 Overall, EDA on the Netflix-Movies & TV Shows dataset is a powerful tool for gaining insights into the world of streaming media and understanding viewer preferences and behavior.
